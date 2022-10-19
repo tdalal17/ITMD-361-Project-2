@@ -1,15 +1,4 @@
-.Homepage
-{
-  margin: 0;
-  padding:0;
-  box-sizing: border-box;
+.TajMahal{
   background-color: black;
-}
-
-.body
-{
-  background-color: black;
-  font: optional;
-  margin: auto;
-}
-
+  padding: 10ch;
+};
